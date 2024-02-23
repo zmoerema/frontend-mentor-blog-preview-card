@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: [Frontend Mentor](https://your-solution-url.com) -->
-- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-blog-preview-card)
+- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-blog-preview-card/)
 
 ## My process
 
